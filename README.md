@@ -12,6 +12,6 @@
 > [!NOTE]  
 > If the application can't fetch information from the API,
 > sign up to AcuuWeather and get an API key,
-> then change the API key in Helpers/AccuWeatherHelper.cs string field.
+> then change the API key in ViewModel/Helpers/AccuWeatherHelper.cs string field.
 
 
